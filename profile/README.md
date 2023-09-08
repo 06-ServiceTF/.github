@@ -1,5 +1,3 @@
-## HAPOOM README
-
 
 ## 🙌 HAPOOM: 하루에 한 번, 하늘을 품는 습관
 <img src="https://avatars.githubusercontent.com/u/140768065?s=200&v=4" width="100" height="100"/>
